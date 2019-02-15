@@ -7,7 +7,7 @@ import urllib2
 def sendEmail():
 
     from_addr = '799648397@qq.com'  # 输入邮箱地址和口令
-    password = 'mjwnjayqpfbtbbfd'
+    password = '*********(密码口令)'
     to_addr = 'simplismvip@163.com'  # 输入邮箱收件人地址
 
     smtp_server = 'smtp.qq.com'  # 输入SMTP服务器地址
